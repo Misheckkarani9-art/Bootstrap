@@ -1,6 +1,8 @@
 #one{
     background-color: rgb(22, 22, 59);
     color: white;
+    height: 350px;
+    
     
 }
 #two{
@@ -9,7 +11,7 @@
     
 }
 #three{
-    height: 50px;
+    height: 150px;
     width: 100%;
     background-color: rgb(35, 94, 146);
 }
