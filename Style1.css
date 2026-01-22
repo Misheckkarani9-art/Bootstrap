@@ -1,0 +1,15 @@
+#one{
+    background-color: rgb(22, 22, 59);
+    color: white;
+    
+}
+#two{
+    text-decoration: underline goldenrod;
+    color: white;
+    
+}
+#three{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(35, 94, 146);
+}
